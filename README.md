@@ -3,7 +3,7 @@
 
 Ces dernières années, nous voyons naître de plus en plus de restaurant de Poké, ou « Poké bar » à travers la France. Il s’agit d’une spécialité culinaire venu d’Hawaï. Pour ceux qui ne sont pas familiers voici une photo de cette merveille : 
 <div style="text-align:center;">
-    <img src="poke_bowl.jpg" alt="Poke bowl" width="626" height="417"><br>
+    <img src="Poke_bowl.jpg" alt="Poke bowl" width="626" height="417"><br>
     <a href="https://www.freepik.com/photos/food">Food photo created by timolina - www.freepik.com</a>
 </div>
 <br>
@@ -13,8 +13,8 @@ L’objectif de ce notebook est de déterminer l’offre concurrentielle à trav
 <li>Présenter le résultat de l’étude sur un graphique</li>
 </ul>
 <br>
-Je vous invite donc à consulter le notebook pour voir l’analyse réalisée à l'aide de la base de données *Foursquare* :  <br>
-<ul><li><a href="https://nbviewer.jupyter.org/">Lien vers le notebook</a></li></ul>
+Je vous invite donc à consulter le notebook pour voir l’analyse réalisée à l'aide de la base de données <i>Foursquare</i> :  <br>
+<ul><li><a href="https://nbviewer.jupyter.org/github/Ashish-3/Ouvrir-mon-poke/blob/master/Ouvrir_mon_poke.ipynb">Lien vers le notebook</a></li></ul>
 <br>
 Sinon, voici le résultat de l'analyse en une image :
     <img src="city_poke_compar.png" alt="Comparaison Poke par villes">
@@ -22,4 +22,4 @@ Sinon, voici le résultat de l'analyse en une image :
 Nous pouvons en conclure que les villes tels que Marseille, Nantes ou Lille sont des agglomérations où il y a une concurrence très faible. Il serait donc pertinent d’ouvrir nos restaurants de Poké dans ces villes !
 <br>
 <br>
-*Note : Il s’agit là d’une analyse très sommaire du sujet. Une analyse plus fine pourra être réaliser, pour par exemple, déterminer le type de quartier dans lesquels ces restaurants sont implantés, ou encore, de déterminer la fréquentation de ces établissements.*
+<i>Note : Il s’agit là d’une analyse très sommaire du sujet. Une analyse plus fine pourra être réaliser, pour par exemple, déterminer le type de quartier dans lesquels ces restaurants sont implantés, ou encore, de déterminer la fréquentation de ces établissements.</i>
